@@ -1,0 +1,44 @@
+2025-01-08 10:56:51,833 - INFO - Starting file processing
+2025-01-08 10:56:51,858 - INFO - File processing completed successfully
+2025-01-08 10:56:52,714 - INFO - NumExpr defaulting to 8 threads.
+2025-01-08 10:56:53,439 - INFO - Starting NDW data conversion.
+2025-01-08 10:56:53,439 - ERROR - Error processing NDW data: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/NDW_AVG_Meetlocaties_Shapefile'
+2025-01-08 10:56:53,440 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 10:56:53,440 - ERROR - Error processing verkeersborden_actueel_beeld.json: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/verkeersborden_actueel_beeld.json'
+2025-01-08 10:56:53,452 - INFO - Database not found. Creating a new database at ./NDW.db.
+2025-01-08 10:56:53,452 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 10:56:53,452 - WARNING - No parquet files found.
+2025-01-08 10:56:53,452 - INFO - Found 0 parquet files.
+2025-01-08 10:57:33,408 - INFO - Starting file processing
+2025-01-08 10:57:33,430 - INFO - File processing completed successfully
+2025-01-08 10:57:33,802 - INFO - NumExpr defaulting to 8 threads.
+2025-01-08 10:57:34,294 - INFO - Starting NDW data conversion.
+2025-01-08 10:57:34,294 - ERROR - Error processing NDW data: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/NDW_AVG_Meetlocaties_Shapefile'
+2025-01-08 10:57:34,294 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 10:57:34,294 - ERROR - Error processing verkeersborden_actueel_beeld.json: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/verkeersborden_actueel_beeld.json'
+2025-01-08 10:57:34,300 - INFO - Database not found. Creating a new database at ./NDW.db.
+2025-01-08 10:57:34,301 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 10:57:34,301 - WARNING - No parquet files found.
+2025-01-08 10:57:34,301 - INFO - Found 0 parquet files.
+2025-01-08 10:58:40,442 - INFO - Starting file processing
+2025-01-08 10:58:40,462 - INFO - File processing completed successfully
+2025-01-08 10:58:40,820 - INFO - NumExpr defaulting to 8 threads.
+2025-01-08 10:58:41,303 - INFO - Starting NDW data conversion.
+2025-01-08 10:58:41,303 - ERROR - Error processing NDW data: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/NDW_AVG_Meetlocaties_Shapefile'
+2025-01-08 10:58:41,303 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 10:58:41,303 - ERROR - Error processing verkeersborden_actueel_beeld.json: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/verkeersborden_actueel_beeld.json'
+2025-01-08 10:58:41,312 - INFO - Database not found. Creating a new database at ./NDW.db.
+2025-01-08 10:58:41,312 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 10:58:41,312 - WARNING - No parquet files found.
+2025-01-08 10:58:41,313 - INFO - Found 0 parquet files.
+2025-01-08 10:59:14,725 - INFO - Starting file processing
+2025-01-08 10:59:14,746 - INFO - File processing completed successfully
+2025-01-08 10:59:15,107 - INFO - NumExpr defaulting to 8 threads.
+2025-01-08 10:59:15,588 - INFO - Starting NDW data conversion.
+2025-01-08 10:59:15,588 - ERROR - Error processing NDW data: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/NDW_AVG_Meetlocaties_Shapefile'
+2025-01-08 10:59:15,589 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 10:59:15,589 - ERROR - Error processing verkeersborden_actueel_beeld.json: [WinError 3] The system cannot find the path specified: './extract_downloads/extracted_downloads/verkeersborden_actueel_beeld.json'
+2025-01-08 10:59:15,595 - INFO - Database not found. Creating a new database at ./NDW.db.
+2025-01-08 10:59:15,595 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 10:59:15,595 - WARNING - No parquet files found.
+2025-01-08 10:59:15,595 - INFO - Found 0 parquet files.

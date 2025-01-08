@@ -1,0 +1,249 @@
+2025-01-08 11:00:30,846 - INFO - Retrying with device's own network after exhausting all proxies.
+2025-01-08 11:00:30,921 - INFO - Success with device's own network on attempt 1
+2025-01-08 11:00:32,625 - INFO - Downloaded: 2023_fietsintensiteiten.zip, Size: 38.89 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\2023_fietsintensiteiten.zip
+2025-01-08 11:00:32,722 - INFO - Downloaded: actuele_statusberichten.xml.gz, Size: 0.14 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\actuele_statusberichten.xml.gz
+2025-01-08 11:00:32,798 - INFO - Downloaded: brugopeningen.xml.gz, Size: 0.06 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\brugopeningen.xml.gz
+2025-01-08 11:00:32,919 - INFO - Downloaded: DRIPS.xml.gz, Size: 0.35 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\DRIPS.xml.gz
+2025-01-08 11:00:33,005 - INFO - Downloaded: emissiezones.xml.gz, Size: 0.12 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\emissiezones.xml.gz
+2025-01-08 11:00:33,061 - INFO - Downloaded: gebeurtenisinfo.xml.gz, Size: 0.00 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\gebeurtenisinfo.xml.gz
+2025-01-08 11:00:33,122 - INFO - Downloaded: incidents.xml.gz, Size: 0.00 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\incidents.xml.gz
+2025-01-08 11:00:33,220 - INFO - Downloaded: LocatietabelDRIPS.xml.gz, Size: 0.07 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\LocatietabelDRIPS.xml.gz
+2025-01-08 11:00:33,354 - INFO - Downloaded: Matrixsignaalinformatie.xml.gz, Size: 0.93 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\Matrixsignaalinformatie.xml.gz
+2025-01-08 11:00:33,673 - INFO - Downloaded: MaximumSnelhedenHWN-OWN.redirect, Size: 0.00 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\MaximumSnelhedenHWN-OWN.redirect
+2025-01-08 11:00:34,408 - INFO - Downloaded: measurement.xml.gz, Size: 14.45 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\measurement.xml.gz
+2025-01-08 11:00:35,127 - INFO - Downloaded: measurement_current.xml.gz, Size: 14.45 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\measurement_current.xml.gz
+2025-01-08 11:00:36,472 - INFO - Downloaded: NDW_AVG_Meetlocaties_Shapefile.zip, Size: 28.67 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\NDW_AVG_Meetlocaties_Shapefile.zip
+2025-01-08 11:00:36,638 - INFO - Downloaded: ndw_msi_shapefiles_latest.zip, Size: 1.03 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\ndw_msi_shapefiles_latest.zip
+2025-01-08 11:00:38,651 - INFO - Downloaded: RVM2.10 WGS84.zip, Size: 46.29 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\RVM2.10_WGS84.zip
+2025-01-08 11:00:38,726 - INFO - Downloaded: srti.xml.gz, Size: 0.01 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\srti.xml.gz
+2025-01-08 11:00:38,862 - INFO - Downloaded: trafficspeed.xml.gz, Size: 1.02 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\trafficspeed.xml.gz
+2025-01-08 11:00:39,072 - INFO - Downloaded: traveltime.xml.gz, Size: 2.61 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\traveltime.xml.gz
+2025-01-08 11:00:39,147 - INFO - Downloaded: Truckparking_Parking_Status.xml, Size: 0.01 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\Truckparking_Parking_Status.xml
+2025-01-08 11:00:39,248 - INFO - Downloaded: Truckparking_Parking_Table.xml, Size: 0.04 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\Truckparking_Parking_Table.xml
+2025-01-08 11:00:49,884 - INFO - Downloaded: verkeersborden_actueel_beeld.csv.gz, Size: 252.92 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\verkeersborden_actueel_beeld.csv.gz
+2025-01-08 11:01:01,676 - INFO - Downloaded: verkeersborden_actueel_beeld.json.gz, Size: 285.68 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\verkeersborden_actueel_beeld.json.gz
+2025-01-08 11:01:12,100 - INFO - Downloaded: verkeersborden_actueel_beeld_rd.geojson.gz, Size: 246.46 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\verkeersborden_actueel_beeld_rd.geojson.gz
+2025-01-08 11:01:22,902 - INFO - Downloaded: verkeersborden_actueel_beeld_wgs84.geojson.gz, Size: 254.59 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\verkeersborden_actueel_beeld_wgs84.geojson.gz
+2025-01-08 11:01:24,846 - INFO - Downloaded: VILD6.10.A.zip, Size: 40.46 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\VILD6.10.A.zip
+2025-01-08 11:01:26,594 - INFO - Downloaded: VILD6.11.A.zip, Size: 40.00 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\VILD6.11.A.zip
+2025-01-08 11:01:27,434 - INFO - Downloaded: wegwerkzaamheden.xml.gz, Size: 16.47 MB, Folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\scrape_download\downloads\wegwerkzaamheden.xml.gz
+2025-01-08 11:01:27,448 - INFO - Starting file processing
+2025-01-08 11:01:27,915 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\2023_fietsintensiteiten.zip
+2025-01-08 11:01:27,932 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\actuele_statusberichten.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\actuele_statusberichten.xml\actuele_statusberichten.xml
+2025-01-08 11:01:27,947 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\brugopeningen.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\brugopeningen.xml\brugopeningen.xml
+2025-01-08 11:01:27,966 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\DRIPS.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\DRIPS.xml\DRIPS.xml
+2025-01-08 11:01:27,977 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\emissiezones.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\emissiezones.xml\emissiezones.xml
+2025-01-08 11:01:27,985 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\gebeurtenisinfo.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\gebeurtenisinfo.xml\gebeurtenisinfo.xml
+2025-01-08 11:01:27,996 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\incidents.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\incidents.xml\incidents.xml
+2025-01-08 11:01:28,006 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\LocatietabelDRIPS.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\LocatietabelDRIPS.xml\LocatietabelDRIPS.xml
+2025-01-08 11:01:28,045 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\Matrixsignaalinformatie.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\Matrixsignaalinformatie.xml\Matrixsignaalinformatie.xml
+2025-01-08 11:01:29,066 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\measurement.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\measurement.xml\measurement.xml
+2025-01-08 11:01:31,771 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\measurement_current.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\measurement_current.xml\measurement_current.xml
+2025-01-08 11:01:32,537 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\NDW_AVG_Meetlocaties_Shapefile.zip
+2025-01-08 11:01:32,575 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\ndw_msi_shapefiles_latest.zip
+2025-01-08 11:01:34,810 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\RVM2.10_WGS84.zip
+2025-01-08 11:01:34,820 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\srti.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\srti.xml\srti.xml
+2025-01-08 11:01:34,976 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\trafficspeed.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\trafficspeed.xml\trafficspeed.xml
+2025-01-08 11:01:35,440 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\traveltime.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\traveltime.xml\traveltime.xml
+2025-01-08 11:01:40,135 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\verkeersborden_actueel_beeld.csv.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld.csv\verkeersborden_actueel_beeld.csv
+2025-01-08 11:01:47,674 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\verkeersborden_actueel_beeld.json.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld.json\verkeersborden_actueel_beeld.json
+2025-01-08 11:01:56,744 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\verkeersborden_actueel_beeld_rd.geojson.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld_rd.geojson\verkeersborden_actueel_beeld_rd.geojson
+2025-01-08 11:02:05,235 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\verkeersborden_actueel_beeld_wgs84.geojson.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld_wgs84.geojson\verkeersborden_actueel_beeld_wgs84.geojson
+2025-01-08 11:02:06,299 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\VILD6.10.A.zip
+2025-01-08 11:02:06,770 - INFO - Extracted zip file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\VILD6.11.A.zip
+2025-01-08 11:02:10,182 - INFO - Extracted gz file: C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\..\scrape_download\downloads\wegwerkzaamheden.xml.gz to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\wegwerkzaamheden.xml\wegwerkzaamheden.xml
+2025-01-08 11:02:10,188 - INFO - Moved Meetvakken_WGS84.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\NDW_AVG_Meetlocaties_Shapefile
+2025-01-08 11:02:10,189 - INFO - Moved Telpunten_WGS84.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\NDW_AVG_Meetlocaties_Shapefile
+2025-01-08 11:02:10,189 - INFO - Moved msi_not_converted_to_shapefile.csv to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\ndw_msi_shapefiles_latest
+2025-01-08 11:02:10,190 - INFO - Moved shapes.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\MSI
+2025-01-08 11:02:10,190 - INFO - Moved RVM2.10 WGS84.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RVM2.10_WGS84
+2025-01-08 11:02:10,191 - INFO - Moved verkeersborden_actueel_beeld.csv to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld.csv
+2025-01-08 11:02:10,191 - INFO - Moved verkeersborden_actueel_beeld.json to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld.json
+2025-01-08 11:02:10,191 - INFO - Moved verkeersborden_actueel_beeld_rd.geojson to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld_rd.geojson
+2025-01-08 11:02:10,483 - INFO - Moved verkeersborden_actueel_beeld_wgs84.geojson to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\verkeersborden_actueel_beeld_wgs84.geojson
+2025-01-08 11:02:10,485 - INFO - Moved vild_area.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,486 - INFO - Moved vild_line.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,487 - INFO - Moved vild_point.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,487 - INFO - Moved vild_area.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,488 - INFO - Moved vild_line.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,488 - INFO - Moved vild_point.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,546 - INFO - Moved vild_area.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,548 - INFO - Moved vild_line.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,552 - INFO - Moved vild_point.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\RD
+2025-01-08 11:02:10,674 - INFO - Moved vild_area.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,676 - INFO - Moved vild_line.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,677 - INFO - Moved vild_point.shp to C:\Users\gingg\Documents\GitHub\xml-to-parquet\extract_downloads\extracted_downloads\WGS84
+2025-01-08 11:02:10,681 - INFO - File processing completed successfully
+2025-01-08 11:02:18,194 - INFO - NumExpr defaulting to 8 threads.
+2025-01-08 11:02:19,660 - INFO - Saved final chunk with 614 records to temp_chunk_0.parquet
+2025-01-08 11:02:20,236 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/actuele_statusberichten.parquet
+2025-01-08 11:02:20,534 - INFO - Saved final chunk with 1280 records to temp_chunk_0.parquet
+2025-01-08 11:02:20,570 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/brugopeningen.parquet
+2025-01-08 11:02:20,612 - INFO - Saved final chunk with 9 records to temp_chunk_0.parquet
+2025-01-08 11:02:20,639 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/incidents.parquet
+2025-01-08 11:02:33,771 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 11:02:48,434 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 11:03:04,682 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 11:03:21,177 - INFO - Saved final chunk with 7655 records to temp_chunk_3.parquet
+2025-01-08 11:03:22,907 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/wegwerkzaamheden.parquet
+2025-01-08 11:03:23,681 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 11:03:24,158 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 11:03:24,796 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 11:03:25,199 - INFO - Saved final chunk with 6850 records to temp_chunk_3.parquet
+2025-01-08 11:03:25,390 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/Matrixsignaalinformatie.parquet
+2025-01-08 11:03:26,425 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 11:03:26,642 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 11:03:26,904 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 11:03:27,241 - INFO - Saved chunk 4 with 10000 records to temp_chunk_3.parquet
+2025-01-08 11:03:27,463 - INFO - Saved chunk 5 with 10000 records to temp_chunk_4.parquet
+2025-01-08 11:03:27,708 - INFO - Saved chunk 6 with 10000 records to temp_chunk_5.parquet
+2025-01-08 11:03:27,971 - INFO - Saved chunk 7 with 10000 records to temp_chunk_6.parquet
+2025-01-08 11:03:28,295 - INFO - Saved chunk 8 with 10000 records to temp_chunk_7.parquet
+2025-01-08 11:03:28,646 - INFO - Saved chunk 9 with 10000 records to temp_chunk_8.parquet
+2025-01-08 11:03:28,962 - INFO - Saved chunk 10 with 10000 records to temp_chunk_9.parquet
+2025-01-08 11:03:29,235 - INFO - Saved chunk 11 with 10000 records to temp_chunk_10.parquet
+2025-01-08 11:03:29,494 - INFO - Saved chunk 12 with 10000 records to temp_chunk_11.parquet
+2025-01-08 11:03:29,764 - INFO - Saved chunk 13 with 10000 records to temp_chunk_12.parquet
+2025-01-08 11:03:30,018 - INFO - Saved chunk 14 with 10000 records to temp_chunk_13.parquet
+2025-01-08 11:03:30,313 - INFO - Saved chunk 15 with 10000 records to temp_chunk_14.parquet
+2025-01-08 11:03:30,556 - INFO - Saved chunk 16 with 10000 records to temp_chunk_15.parquet
+2025-01-08 11:03:30,854 - INFO - Saved chunk 17 with 10000 records to temp_chunk_16.parquet
+2025-01-08 11:03:31,096 - INFO - Saved chunk 18 with 10000 records to temp_chunk_17.parquet
+2025-01-08 11:03:31,324 - INFO - Saved chunk 19 with 10000 records to temp_chunk_18.parquet
+2025-01-08 11:03:31,533 - INFO - Saved chunk 20 with 10000 records to temp_chunk_19.parquet
+2025-01-08 11:03:31,752 - INFO - Saved chunk 21 with 10000 records to temp_chunk_20.parquet
+2025-01-08 11:03:31,971 - INFO - Saved chunk 22 with 10000 records to temp_chunk_21.parquet
+2025-01-08 11:03:32,184 - INFO - Saved chunk 23 with 10000 records to temp_chunk_22.parquet
+2025-01-08 11:03:32,417 - INFO - Saved chunk 24 with 10000 records to temp_chunk_23.parquet
+2025-01-08 11:03:32,628 - INFO - Saved chunk 25 with 10000 records to temp_chunk_24.parquet
+2025-01-08 11:03:32,881 - INFO - Saved chunk 26 with 10000 records to temp_chunk_25.parquet
+2025-01-08 11:03:33,127 - INFO - Saved chunk 27 with 10000 records to temp_chunk_26.parquet
+2025-01-08 11:03:33,353 - INFO - Saved chunk 28 with 10000 records to temp_chunk_27.parquet
+2025-01-08 11:03:33,572 - INFO - Saved chunk 29 with 10000 records to temp_chunk_28.parquet
+2025-01-08 11:03:33,811 - INFO - Saved chunk 30 with 10000 records to temp_chunk_29.parquet
+2025-01-08 11:03:34,080 - INFO - Saved chunk 31 with 10000 records to temp_chunk_30.parquet
+2025-01-08 11:03:34,328 - INFO - Saved chunk 32 with 10000 records to temp_chunk_31.parquet
+2025-01-08 11:03:34,558 - INFO - Saved chunk 33 with 10000 records to temp_chunk_32.parquet
+2025-01-08 11:03:34,827 - INFO - Saved chunk 34 with 10000 records to temp_chunk_33.parquet
+2025-01-08 11:03:35,103 - INFO - Saved chunk 35 with 10000 records to temp_chunk_34.parquet
+2025-01-08 11:03:35,384 - INFO - Saved chunk 36 with 10000 records to temp_chunk_35.parquet
+2025-01-08 11:03:35,661 - INFO - Saved chunk 37 with 10000 records to temp_chunk_36.parquet
+2025-01-08 11:03:35,897 - INFO - Saved final chunk with 4496 records to temp_chunk_37.parquet
+2025-01-08 11:03:37,721 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/trafficspeed.parquet
+2025-01-08 11:03:39,633 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 11:03:40,365 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 11:03:41,092 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 11:03:41,949 - INFO - Saved chunk 4 with 10000 records to temp_chunk_3.parquet
+2025-01-08 11:03:42,827 - INFO - Saved chunk 5 with 10000 records to temp_chunk_4.parquet
+2025-01-08 11:03:43,842 - INFO - Saved chunk 6 with 10000 records to temp_chunk_5.parquet
+2025-01-08 11:03:44,694 - INFO - Saved chunk 7 with 10000 records to temp_chunk_6.parquet
+2025-01-08 11:03:45,548 - INFO - Saved chunk 8 with 10000 records to temp_chunk_7.parquet
+2025-01-08 11:03:46,333 - INFO - Saved chunk 9 with 10000 records to temp_chunk_8.parquet
+2025-01-08 11:03:47,126 - INFO - Saved chunk 10 with 10000 records to temp_chunk_9.parquet
+2025-01-08 11:03:47,944 - INFO - Saved chunk 11 with 10000 records to temp_chunk_10.parquet
+2025-01-08 11:03:49,111 - INFO - Saved chunk 12 with 10000 records to temp_chunk_11.parquet
+2025-01-08 11:03:49,882 - INFO - Saved chunk 13 with 10000 records to temp_chunk_12.parquet
+2025-01-08 11:03:50,686 - INFO - Saved chunk 14 with 10000 records to temp_chunk_13.parquet
+2025-01-08 11:03:51,951 - INFO - Saved chunk 15 with 10000 records to temp_chunk_14.parquet
+2025-01-08 11:03:52,574 - INFO - Saved chunk 16 with 10000 records to temp_chunk_15.parquet
+2025-01-08 11:03:52,990 - INFO - Saved final chunk with 7874 records to temp_chunk_16.parquet
+2025-01-08 11:03:54,456 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/traveltime.parquet
+2025-01-08 11:03:54,736 - INFO - Starting NDW data conversion.
+2025-01-08 11:03:57,849 - INFO - Completed NDW data conversion to Parquet. Output folder: C:\Users\gingg\Documents\GitHub\xml-to-parquet\convert_to_parquet\..\convert_to_parquet\parquet\NDW_AVG_Meetlocaties_Shapefile
+2025-01-08 11:03:57,888 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 11:07:03,723 - INFO - Completed verkeersborden_actueel_beeld data conversion to Parquet. File saved at: C:\Users\gingg\Documents\GitHub\xml-to-parquet\convert_to_parquet\..\convert_to_parquet\parquet
+2025-01-08 11:07:07,515 - INFO - Database not found. Creating a new database at ./NDW.db.
+2025-01-08 11:07:07,515 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 11:07:07,516 - INFO - Found file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet, Size: 0.53 MB
+2025-01-08 11:07:07,516 - INFO - Found file: ./convert_to_parquet/parquet\brugopeningen.parquet, Size: 0.08 MB
+2025-01-08 11:07:07,516 - INFO - Found file: ./convert_to_parquet/parquet\incidents.parquet, Size: 0.05 MB
+2025-01-08 11:07:07,517 - INFO - Found file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet, Size: 0.97 MB
+2025-01-08 11:07:07,517 - INFO - Found file: ./convert_to_parquet/parquet\trafficspeed.parquet, Size: 1.10 MB
+2025-01-08 11:07:07,518 - INFO - Found file: ./convert_to_parquet/parquet\traveltime.parquet, Size: 6.19 MB
+2025-01-08 11:07:07,518 - INFO - Found file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet, Size: 300.58 MB
+2025-01-08 11:07:07,518 - INFO - Found file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet, Size: 3.43 MB
+2025-01-08 11:07:07,519 - INFO - Found file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet, Size: 37.79 MB
+2025-01-08 11:07:07,519 - INFO - Found file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet, Size: 0.84 MB
+2025-01-08 11:07:07,519 - INFO - Found 10 parquet files.
+2025-01-08 11:07:07,534 - INFO - Processing file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet
+2025-01-08 11:07:07,534 - INFO - Started processing file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet
+2025-01-08 11:07:08,000 - INFO - File ./convert_to_parquet/parquet\actuele_statusberichten.parquet loaded with 239 rows
+2025-01-08 11:07:08,261 - INFO - Preprocessed file ./convert_to_parquet/parquet\actuele_statusberichten.parquet with 239 rows remaining
+2025-01-08 11:07:08,261 - INFO - Started inserting data into actuele_statusberichten table in database ./NDW.db
+2025-01-08 11:07:08,267 - INFO - Table actuele_statusberichten does not exist. Creating new table.
+2025-01-08 11:07:08,355 - INFO - Successfully created and inserted data into actuele_statusberichten.
+2025-01-08 11:07:08,355 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\actuele_statusberichten.parquet into table actuele_statusberichten.
+2025-01-08 11:07:08,356 - INFO - Processing file: ./convert_to_parquet/parquet\brugopeningen.parquet
+2025-01-08 11:07:08,356 - INFO - Started processing file: ./convert_to_parquet/parquet\brugopeningen.parquet
+2025-01-08 11:07:08,389 - INFO - File ./convert_to_parquet/parquet\brugopeningen.parquet loaded with 1280 rows
+2025-01-08 11:07:08,422 - INFO - Preprocessed file ./convert_to_parquet/parquet\brugopeningen.parquet with 1280 rows remaining
+2025-01-08 11:07:08,422 - INFO - Started inserting data into brugopeningen table in database ./NDW.db
+2025-01-08 11:07:08,425 - INFO - Table brugopeningen does not exist. Creating new table.
+2025-01-08 11:07:08,461 - INFO - Successfully created and inserted data into brugopeningen.
+2025-01-08 11:07:08,461 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\brugopeningen.parquet into table brugopeningen.
+2025-01-08 11:07:08,461 - INFO - Processing file: ./convert_to_parquet/parquet\incidents.parquet
+2025-01-08 11:07:08,461 - INFO - Started processing file: ./convert_to_parquet/parquet\incidents.parquet
+2025-01-08 11:07:08,520 - INFO - File ./convert_to_parquet/parquet\incidents.parquet loaded with 9 rows
+2025-01-08 11:07:08,536 - INFO - Preprocessed file ./convert_to_parquet/parquet\incidents.parquet with 9 rows remaining
+2025-01-08 11:07:08,536 - INFO - Started inserting data into incidents table in database ./NDW.db
+2025-01-08 11:07:08,539 - INFO - Table incidents does not exist. Creating new table.
+2025-01-08 11:07:08,571 - INFO - Successfully created and inserted data into incidents.
+2025-01-08 11:07:08,571 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\incidents.parquet into table incidents.
+2025-01-08 11:07:08,572 - INFO - Processing file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet
+2025-01-08 11:07:08,572 - INFO - Started processing file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet
+2025-01-08 11:07:08,622 - INFO - File ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet loaded with 36850 rows
+2025-01-08 11:07:08,882 - INFO - Preprocessed file ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet with 36850 rows remaining
+2025-01-08 11:07:08,883 - INFO - Started inserting data into Matrixsignaalinformatie table in database ./NDW.db
+2025-01-08 11:07:08,885 - INFO - Table Matrixsignaalinformatie does not exist. Creating new table.
+2025-01-08 11:07:09,122 - INFO - Successfully created and inserted data into Matrixsignaalinformatie.
+2025-01-08 11:07:09,122 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet into table Matrixsignaalinformatie.
+2025-01-08 11:07:09,122 - INFO - Processing file: ./convert_to_parquet/parquet\trafficspeed.parquet
+2025-01-08 11:07:09,122 - INFO - Started processing file: ./convert_to_parquet/parquet\trafficspeed.parquet
+2025-01-08 11:07:09,369 - INFO - File ./convert_to_parquet/parquet\trafficspeed.parquet loaded with 302750 rows
+2025-01-08 11:07:13,597 - INFO - Preprocessed file ./convert_to_parquet/parquet\trafficspeed.parquet with 302750 rows remaining
+2025-01-08 11:07:13,598 - INFO - Started inserting data into trafficspeed table in database ./NDW.db
+2025-01-08 11:07:13,601 - INFO - Table trafficspeed does not exist. Creating new table.
+2025-01-08 11:07:16,551 - INFO - Successfully created and inserted data into trafficspeed.
+2025-01-08 11:07:16,552 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\trafficspeed.parquet into table trafficspeed.
+2025-01-08 11:07:16,552 - INFO - Processing file: ./convert_to_parquet/parquet\traveltime.parquet
+2025-01-08 11:07:16,552 - INFO - Started processing file: ./convert_to_parquet/parquet\traveltime.parquet
+2025-01-08 11:07:16,837 - INFO - File ./convert_to_parquet/parquet\traveltime.parquet loaded with 83937 rows
+2025-01-08 11:07:18,379 - INFO - Preprocessed file ./convert_to_parquet/parquet\traveltime.parquet with 83937 rows remaining
+2025-01-08 11:07:18,396 - INFO - Started inserting data into traveltime table in database ./NDW.db
+2025-01-08 11:07:18,399 - INFO - Table traveltime does not exist. Creating new table.
+2025-01-08 11:07:19,675 - INFO - Successfully created and inserted data into traveltime.
+2025-01-08 11:07:19,675 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\traveltime.parquet into table traveltime.
+2025-01-08 11:07:19,676 - INFO - Processing file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet
+2025-01-08 11:07:19,676 - INFO - Started processing file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet
+2025-01-08 11:07:39,935 - INFO - File ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet loaded with 1929516 rows
+2025-01-08 11:08:26,656 - INFO - Preprocessed file ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet with 1929516 rows remaining
+2025-01-08 11:08:26,673 - INFO - Started inserting data into verkeersborden_actueel_beeld table in database ./NDW.db
+2025-01-08 11:08:26,676 - INFO - Table verkeersborden_actueel_beeld does not exist. Creating new table.
+2025-01-08 11:08:57,480 - INFO - Successfully created and inserted data into verkeersborden_actueel_beeld.
+2025-01-08 11:08:57,481 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet into table verkeersborden_actueel_beeld.
+2025-01-08 11:08:57,481 - INFO - Processing file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet
+2025-01-08 11:08:57,481 - INFO - Started processing file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet
+2025-01-08 11:08:57,752 - INFO - File ./convert_to_parquet/parquet\wegwerkzaamheden.parquet loaded with 9175 rows
+2025-01-08 11:08:59,517 - INFO - Preprocessed file ./convert_to_parquet/parquet\wegwerkzaamheden.parquet with 9175 rows remaining
+2025-01-08 11:09:00,096 - INFO - Started inserting data into wegwerkzaamheden table in database ./NDW.db
+2025-01-08 11:09:00,099 - INFO - Table wegwerkzaamheden does not exist. Creating new table.
+2025-01-08 11:09:01,361 - INFO - Successfully created and inserted data into wegwerkzaamheden.
+2025-01-08 11:09:01,361 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\wegwerkzaamheden.parquet into table wegwerkzaamheden.
+2025-01-08 11:09:01,362 - INFO - Processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 11:09:01,362 - INFO - Started processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 11:09:01,817 - INFO - File ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet loaded with 83659 rows
+2025-01-08 11:09:01,847 - INFO - Processing geometry column in ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 11:09:06,183 - INFO - Preprocessed file ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet with 83659 rows remaining
+2025-01-08 11:09:06,196 - INFO - Started inserting data into Meetvakken_WGS84 table in database ./NDW.db
+2025-01-08 11:09:06,199 - INFO - Table Meetvakken_WGS84 does not exist. Creating new table.
+2025-01-08 11:09:07,480 - INFO - Successfully created and inserted data into Meetvakken_WGS84.
+2025-01-08 11:09:07,480 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet into table Meetvakken_WGS84.
+2025-01-08 11:09:07,481 - INFO - Processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 11:09:07,481 - INFO - Started processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 11:09:07,574 - INFO - File ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet loaded with 19308 rows
+2025-01-08 11:09:07,579 - INFO - Processing geometry column in ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 11:09:08,255 - INFO - Preprocessed file ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet with 19308 rows remaining
+2025-01-08 11:09:08,263 - INFO - Started inserting data into Telpunten_WGS84 table in database ./NDW.db
+2025-01-08 11:09:08,266 - INFO - Table Telpunten_WGS84 does not exist. Creating new table.
+2025-01-08 11:09:08,366 - INFO - Successfully created and inserted data into Telpunten_WGS84.
+2025-01-08 11:09:08,366 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet into table Telpunten_WGS84.
