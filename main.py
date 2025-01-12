@@ -118,7 +118,7 @@ class NDW_DATA_COLLECTION:
         print("Inserting data into database...")
         print("========= Start inserting parquet into the database =========")
         from parquet_to_database.parquet_to_database import PARQUET_TO_DATABASE
-        processor = PARQUET_TO_DATABASE(data_folder="./convert_to_parquet/parquet", db_path="./NDW.db") #eg. format: process_date="22-12-2024" None is today
+        processor = PARQUET_TO_DATABASE(data_folder="./convert_to_parquet/parquet", db_path="./NDW.db", process_date=None) #eg. format: process_date="22-12-2024" None is today
         processor.process()
 
         print("============ O .O ============")

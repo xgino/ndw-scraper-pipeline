@@ -1,0 +1,95 @@
+2025-01-08 18:32:26,890 - INFO - Searching for parquet files in: ./convert_to_parquet/parquet
+2025-01-08 18:32:26,890 - INFO - Found file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet, Size: 0.47 MB
+2025-01-08 18:32:26,890 - INFO - Found file: ./convert_to_parquet/parquet\brugopeningen.parquet, Size: 0.08 MB
+2025-01-08 18:32:26,890 - INFO - Found file: ./convert_to_parquet/parquet\incidents.parquet, Size: 0.05 MB
+2025-01-08 18:32:26,891 - INFO - Found file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet, Size: 0.98 MB
+2025-01-08 18:32:26,891 - INFO - Found file: ./convert_to_parquet/parquet\trafficspeed.parquet, Size: 1.07 MB
+2025-01-08 18:32:26,891 - INFO - Found file: ./convert_to_parquet/parquet\traveltime.parquet, Size: 6.14 MB
+2025-01-08 18:32:26,891 - INFO - Found file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet, Size: 302.00 MB
+2025-01-08 18:32:26,891 - INFO - Found file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet, Size: 3.40 MB
+2025-01-08 18:32:26,892 - INFO - Found file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet, Size: 37.80 MB
+2025-01-08 18:32:26,892 - INFO - Found file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet, Size: 0.84 MB
+2025-01-08 18:32:26,892 - INFO - Found 10 parquet files.
+2025-01-08 18:32:26,901 - INFO - Processing file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet
+2025-01-08 18:32:26,901 - INFO - Started processing file: ./convert_to_parquet/parquet\actuele_statusberichten.parquet
+2025-01-08 18:32:27,054 - INFO - File ./convert_to_parquet/parquet\actuele_statusberichten.parquet loaded with 248 rows
+2025-01-08 18:32:27,252 - INFO - Preprocessed file ./convert_to_parquet/parquet\actuele_statusberichten.parquet with 248 rows remaining
+2025-01-08 18:32:27,252 - INFO - Started inserting data into actuele_statusberichten table in database ./NDW.db
+2025-01-08 18:32:27,259 - INFO - Table actuele_statusberichten does not exist. Creating new table.
+2025-01-08 18:32:27,364 - INFO - Successfully created and inserted data into actuele_statusberichten.
+2025-01-08 18:32:27,364 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\actuele_statusberichten.parquet into table actuele_statusberichten.
+2025-01-08 18:32:27,364 - INFO - Processing file: ./convert_to_parquet/parquet\brugopeningen.parquet
+2025-01-08 18:32:27,364 - INFO - Started processing file: ./convert_to_parquet/parquet\brugopeningen.parquet
+2025-01-08 18:32:27,380 - INFO - File ./convert_to_parquet/parquet\brugopeningen.parquet loaded with 1286 rows
+2025-01-08 18:32:27,409 - INFO - Preprocessed file ./convert_to_parquet/parquet\brugopeningen.parquet with 1286 rows remaining
+2025-01-08 18:32:27,410 - INFO - Started inserting data into brugopeningen table in database ./NDW.db
+2025-01-08 18:32:27,413 - INFO - Table brugopeningen does not exist. Creating new table.
+2025-01-08 18:32:27,448 - INFO - Successfully created and inserted data into brugopeningen.
+2025-01-08 18:32:27,448 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\brugopeningen.parquet into table brugopeningen.
+2025-01-08 18:32:27,448 - INFO - Processing file: ./convert_to_parquet/parquet\incidents.parquet
+2025-01-08 18:32:27,448 - INFO - Started processing file: ./convert_to_parquet/parquet\incidents.parquet
+2025-01-08 18:32:27,466 - INFO - File ./convert_to_parquet/parquet\incidents.parquet loaded with 20 rows
+2025-01-08 18:32:27,486 - INFO - Preprocessed file ./convert_to_parquet/parquet\incidents.parquet with 20 rows remaining
+2025-01-08 18:32:27,486 - INFO - Started inserting data into incidents table in database ./NDW.db
+2025-01-08 18:32:27,490 - INFO - Table incidents does not exist. Creating new table.
+2025-01-08 18:32:27,516 - INFO - Successfully created and inserted data into incidents.
+2025-01-08 18:32:27,516 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\incidents.parquet into table incidents.
+2025-01-08 18:32:27,517 - INFO - Processing file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet
+2025-01-08 18:32:27,517 - INFO - Started processing file: ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet
+2025-01-08 18:32:27,562 - INFO - File ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet loaded with 36850 rows
+2025-01-08 18:32:27,806 - INFO - Preprocessed file ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet with 36850 rows remaining
+2025-01-08 18:32:27,806 - INFO - Started inserting data into Matrixsignaalinformatie table in database ./NDW.db
+2025-01-08 18:32:27,809 - INFO - Table Matrixsignaalinformatie does not exist. Creating new table.
+2025-01-08 18:32:28,090 - INFO - Successfully created and inserted data into Matrixsignaalinformatie.
+2025-01-08 18:32:28,090 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\Matrixsignaalinformatie.parquet into table Matrixsignaalinformatie.
+2025-01-08 18:32:28,091 - INFO - Processing file: ./convert_to_parquet/parquet\trafficspeed.parquet
+2025-01-08 18:32:28,091 - INFO - Started processing file: ./convert_to_parquet/parquet\trafficspeed.parquet
+2025-01-08 18:32:28,318 - INFO - File ./convert_to_parquet/parquet\trafficspeed.parquet loaded with 297490 rows
+2025-01-08 18:32:38,202 - INFO - Preprocessed file ./convert_to_parquet/parquet\trafficspeed.parquet with 297490 rows remaining
+2025-01-08 18:32:38,207 - INFO - Started inserting data into trafficspeed table in database ./NDW.db
+2025-01-08 18:32:38,218 - INFO - Table trafficspeed does not exist. Creating new table.
+2025-01-08 18:32:43,018 - INFO - Successfully created and inserted data into trafficspeed.
+2025-01-08 18:32:43,019 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\trafficspeed.parquet into table trafficspeed.
+2025-01-08 18:32:43,019 - INFO - Processing file: ./convert_to_parquet/parquet\traveltime.parquet
+2025-01-08 18:32:43,019 - INFO - Started processing file: ./convert_to_parquet/parquet\traveltime.parquet
+2025-01-08 18:32:43,312 - INFO - File ./convert_to_parquet/parquet\traveltime.parquet loaded with 83942 rows
+2025-01-08 18:32:44,657 - INFO - Preprocessed file ./convert_to_parquet/parquet\traveltime.parquet with 83942 rows remaining
+2025-01-08 18:32:44,697 - INFO - Started inserting data into traveltime table in database ./NDW.db
+2025-01-08 18:32:44,700 - INFO - Table traveltime does not exist. Creating new table.
+2025-01-08 18:32:46,014 - INFO - Successfully created and inserted data into traveltime.
+2025-01-08 18:32:46,015 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\traveltime.parquet into table traveltime.
+2025-01-08 18:32:46,015 - INFO - Processing file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet
+2025-01-08 18:32:46,015 - INFO - Started processing file: ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet
+2025-01-08 18:33:03,494 - INFO - File ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet loaded with 1929518 rows
+2025-01-08 18:33:43,542 - INFO - Preprocessed file ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet with 1929518 rows remaining
+2025-01-08 18:33:43,556 - INFO - Started inserting data into verkeersborden_actueel_beeld table in database ./NDW.db
+2025-01-08 18:33:43,560 - INFO - Table verkeersborden_actueel_beeld does not exist. Creating new table.
+2025-01-08 18:33:54,286 - ERROR - Error inserting data into verkeersborden_actueel_beeld at 2025-01-08 18:33:54.286178. Error: database or disk is full
+2025-01-08 18:33:54,287 - ERROR - DataFrame columns: ['id', 'ndw_id', 'type', 'schema_version', 'validated', 'rvv_code', 'text_signs', 'location', 'details', 'publication_timestamp', 'validated_on', 'black_code', 'zone_code', 'user_id', 'scraped_date']
+2025-01-08 18:33:54,287 - ERROR - Failed to process file ./convert_to_parquet/parquet\verkeersborden_actueel_beeld.parquet for table verkeersborden_actueel_beeld. Error: database or disk is full
+2025-01-08 18:33:54,632 - INFO - Processing file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet
+2025-01-08 18:33:54,633 - INFO - Started processing file: ./convert_to_parquet/parquet\wegwerkzaamheden.parquet
+2025-01-08 18:33:54,856 - INFO - File ./convert_to_parquet/parquet\wegwerkzaamheden.parquet loaded with 9298 rows
+2025-01-08 18:33:56,186 - INFO - Preprocessed file ./convert_to_parquet/parquet\wegwerkzaamheden.parquet with 9298 rows remaining
+2025-01-08 18:33:56,606 - INFO - Started inserting data into wegwerkzaamheden table in database ./NDW.db
+2025-01-08 18:33:57,629 - INFO - Table wegwerkzaamheden does not exist. Creating new table.
+2025-01-08 18:33:58,595 - INFO - Successfully created and inserted data into wegwerkzaamheden.
+2025-01-08 18:33:58,595 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\wegwerkzaamheden.parquet into table wegwerkzaamheden.
+2025-01-08 18:33:58,595 - INFO - Processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 18:33:58,596 - INFO - Started processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 18:33:58,807 - INFO - File ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet loaded with 83659 rows
+2025-01-08 18:33:58,828 - INFO - Processing geometry column in ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet
+2025-01-08 18:34:01,255 - INFO - Preprocessed file ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet with 83659 rows remaining
+2025-01-08 18:34:01,265 - INFO - Started inserting data into Meetvakken_WGS84 table in database ./NDW.db
+2025-01-08 18:34:01,269 - INFO - Table Meetvakken_WGS84 does not exist. Creating new table.
+2025-01-08 18:34:03,475 - INFO - Successfully created and inserted data into Meetvakken_WGS84.
+2025-01-08 18:34:03,475 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Meetvakken_WGS84.parquet into table Meetvakken_WGS84.
+2025-01-08 18:34:03,476 - INFO - Processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 18:34:03,476 - INFO - Started processing file: ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 18:34:03,534 - INFO - File ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet loaded with 19308 rows
+2025-01-08 18:34:03,546 - INFO - Processing geometry column in ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet
+2025-01-08 18:34:03,946 - INFO - Preprocessed file ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet with 19308 rows remaining
+2025-01-08 18:34:03,961 - INFO - Started inserting data into Telpunten_WGS84 table in database ./NDW.db
+2025-01-08 18:34:03,965 - INFO - Table Telpunten_WGS84 does not exist. Creating new table.
+2025-01-08 18:34:04,052 - INFO - Successfully created and inserted data into Telpunten_WGS84.
+2025-01-08 18:34:04,052 - INFO - Successfully processed and inserted ./convert_to_parquet/parquet\NDW_AVG_Meetlocaties_Shapefile\Telpunten_WGS84.parquet into table Telpunten_WGS84.

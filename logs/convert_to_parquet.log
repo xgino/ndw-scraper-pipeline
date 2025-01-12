@@ -1,0 +1,81 @@
+2025-01-08 18:03:16,590 - INFO - Starting NDW data conversion.
+2025-01-08 18:03:18,686 - ERROR - Error processing NDW data: Missing optional dependency 'pyarrow.parquet'. pyarrow is required for Parquet support.  "
+        "Use pip or conda to install pyarrow.parquet.
+2025-01-08 18:03:18,720 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 18:29:34,131 - INFO - Saved final chunk with 606 records to temp_chunk_0.parquet
+2025-01-08 18:29:34,516 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/actuele_statusberichten.parquet
+2025-01-08 18:29:34,785 - INFO - Saved final chunk with 1286 records to temp_chunk_0.parquet
+2025-01-08 18:29:34,811 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/brugopeningen.parquet
+2025-01-08 18:29:34,838 - INFO - Saved final chunk with 20 records to temp_chunk_0.parquet
+2025-01-08 18:29:34,862 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/incidents.parquet
+2025-01-08 18:29:44,850 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 18:29:58,048 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 18:30:12,176 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 18:30:24,039 - INFO - Saved final chunk with 7869 records to temp_chunk_3.parquet
+2025-01-08 18:30:25,504 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/wegwerkzaamheden.parquet
+2025-01-08 18:30:26,123 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 18:30:26,493 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 18:30:26,898 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 18:30:27,178 - INFO - Saved final chunk with 6850 records to temp_chunk_3.parquet
+2025-01-08 18:30:27,321 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/Matrixsignaalinformatie.parquet
+2025-01-08 18:30:28,198 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 18:30:28,393 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 18:30:28,624 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 18:30:28,808 - INFO - Saved chunk 4 with 10000 records to temp_chunk_3.parquet
+2025-01-08 18:30:29,054 - INFO - Saved chunk 5 with 10000 records to temp_chunk_4.parquet
+2025-01-08 18:30:29,334 - INFO - Saved chunk 6 with 10000 records to temp_chunk_5.parquet
+2025-01-08 18:30:29,570 - INFO - Saved chunk 7 with 10000 records to temp_chunk_6.parquet
+2025-01-08 18:30:29,807 - INFO - Saved chunk 8 with 10000 records to temp_chunk_7.parquet
+2025-01-08 18:30:30,086 - INFO - Saved chunk 9 with 10000 records to temp_chunk_8.parquet
+2025-01-08 18:30:30,324 - INFO - Saved chunk 10 with 10000 records to temp_chunk_9.parquet
+2025-01-08 18:30:30,612 - INFO - Saved chunk 11 with 10000 records to temp_chunk_10.parquet
+2025-01-08 18:30:30,818 - INFO - Saved chunk 12 with 10000 records to temp_chunk_11.parquet
+2025-01-08 18:30:31,040 - INFO - Saved chunk 13 with 10000 records to temp_chunk_12.parquet
+2025-01-08 18:30:31,312 - INFO - Saved chunk 14 with 10000 records to temp_chunk_13.parquet
+2025-01-08 18:30:31,546 - INFO - Saved chunk 15 with 10000 records to temp_chunk_14.parquet
+2025-01-08 18:30:31,757 - INFO - Saved chunk 16 with 10000 records to temp_chunk_15.parquet
+2025-01-08 18:30:32,033 - INFO - Saved chunk 17 with 10000 records to temp_chunk_16.parquet
+2025-01-08 18:30:32,232 - INFO - Saved chunk 18 with 10000 records to temp_chunk_17.parquet
+2025-01-08 18:30:32,435 - INFO - Saved chunk 19 with 10000 records to temp_chunk_18.parquet
+2025-01-08 18:30:32,640 - INFO - Saved chunk 20 with 10000 records to temp_chunk_19.parquet
+2025-01-08 18:30:32,930 - INFO - Saved chunk 21 with 10000 records to temp_chunk_20.parquet
+2025-01-08 18:30:33,130 - INFO - Saved chunk 22 with 10000 records to temp_chunk_21.parquet
+2025-01-08 18:30:33,333 - INFO - Saved chunk 23 with 10000 records to temp_chunk_22.parquet
+2025-01-08 18:30:33,535 - INFO - Saved chunk 24 with 10000 records to temp_chunk_23.parquet
+2025-01-08 18:30:33,735 - INFO - Saved chunk 25 with 10000 records to temp_chunk_24.parquet
+2025-01-08 18:30:34,035 - INFO - Saved chunk 26 with 10000 records to temp_chunk_25.parquet
+2025-01-08 18:30:34,237 - INFO - Saved chunk 27 with 10000 records to temp_chunk_26.parquet
+2025-01-08 18:30:34,441 - INFO - Saved chunk 28 with 10000 records to temp_chunk_27.parquet
+2025-01-08 18:30:34,642 - INFO - Saved chunk 29 with 10000 records to temp_chunk_28.parquet
+2025-01-08 18:30:34,844 - INFO - Saved chunk 30 with 10000 records to temp_chunk_29.parquet
+2025-01-08 18:30:35,158 - INFO - Saved chunk 31 with 10000 records to temp_chunk_30.parquet
+2025-01-08 18:30:35,371 - INFO - Saved chunk 32 with 10000 records to temp_chunk_31.parquet
+2025-01-08 18:30:35,576 - INFO - Saved chunk 33 with 10000 records to temp_chunk_32.parquet
+2025-01-08 18:30:35,803 - INFO - Saved chunk 34 with 10000 records to temp_chunk_33.parquet
+2025-01-08 18:30:36,044 - INFO - Saved chunk 35 with 10000 records to temp_chunk_34.parquet
+2025-01-08 18:30:36,283 - INFO - Saved chunk 36 with 10000 records to temp_chunk_35.parquet
+2025-01-08 18:30:36,521 - INFO - Saved chunk 37 with 10000 records to temp_chunk_36.parquet
+2025-01-08 18:30:36,728 - INFO - Saved final chunk with 4496 records to temp_chunk_37.parquet
+2025-01-08 18:30:38,483 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/trafficspeed.parquet
+2025-01-08 18:30:40,151 - INFO - Saved chunk 1 with 10000 records to temp_chunk_0.parquet
+2025-01-08 18:30:40,809 - INFO - Saved chunk 2 with 10000 records to temp_chunk_1.parquet
+2025-01-08 18:30:41,511 - INFO - Saved chunk 3 with 10000 records to temp_chunk_2.parquet
+2025-01-08 18:30:42,186 - INFO - Saved chunk 4 with 10000 records to temp_chunk_3.parquet
+2025-01-08 18:30:42,872 - INFO - Saved chunk 5 with 10000 records to temp_chunk_4.parquet
+2025-01-08 18:30:43,497 - INFO - Saved chunk 6 with 10000 records to temp_chunk_5.parquet
+2025-01-08 18:30:44,192 - INFO - Saved chunk 7 with 10000 records to temp_chunk_6.parquet
+2025-01-08 18:30:44,911 - INFO - Saved chunk 8 with 10000 records to temp_chunk_7.parquet
+2025-01-08 18:30:45,541 - INFO - Saved chunk 9 with 10000 records to temp_chunk_8.parquet
+2025-01-08 18:30:46,183 - INFO - Saved chunk 10 with 10000 records to temp_chunk_9.parquet
+2025-01-08 18:30:46,921 - INFO - Saved chunk 11 with 10000 records to temp_chunk_10.parquet
+2025-01-08 18:30:47,565 - INFO - Saved chunk 12 with 10000 records to temp_chunk_11.parquet
+2025-01-08 18:30:48,322 - INFO - Saved chunk 13 with 10000 records to temp_chunk_12.parquet
+2025-01-08 18:30:48,956 - INFO - Saved chunk 14 with 10000 records to temp_chunk_13.parquet
+2025-01-08 18:30:49,597 - INFO - Saved chunk 15 with 10000 records to temp_chunk_14.parquet
+2025-01-08 18:30:49,986 - INFO - Saved chunk 16 with 10000 records to temp_chunk_15.parquet
+2025-01-08 18:30:50,478 - INFO - Saved final chunk with 7884 records to temp_chunk_16.parquet
+2025-01-08 18:30:51,727 - INFO - Final Parquet file saved to: ./convert_to_parquet/parquet/traveltime.parquet
+2025-01-08 18:30:52,512 - INFO - Starting NDW data conversion.
+2025-01-08 18:30:55,746 - INFO - Completed NDW data conversion to Parquet. Output folder: C:\Users\gingg\Documents\GitHub\ndw-scraper-pipeline\convert_to_parquet\..\convert_to_parquet\parquet\NDW_AVG_Meetlocaties_Shapefile
+2025-01-08 18:30:55,782 - INFO - Starting verkeersborden_actueel_beeld data conversion.
+2025-01-08 18:31:44,642 - INFO - Completed verkeersborden_actueel_beeld data conversion to Parquet. File saved at: C:\Users\gingg\Documents\GitHub\ndw-scraper-pipeline\convert_to_parquet\..\convert_to_parquet\parquet
